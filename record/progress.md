@@ -1,5 +1,9 @@
 # 进度管理
 
+## 2024.08.25
+
+- 阅读 CSDN 文章《论文阅读笔记：A survey of sketches in traffic measurement Design, Optimization, Application》，了解了 Sketch 网络测量的大致架构和工作原理
+
 ## 2024.08.11
 
 - 建立项目仓库
